@@ -3,7 +3,7 @@
 * [Introductio](README.md)
 * [0](0.md)
   * [第一节](0/01.md)
-  * [第二节](0/di-er-jie.md)
+  * [第二节](0/02.md)
 * 1
 * 2
 * 3
